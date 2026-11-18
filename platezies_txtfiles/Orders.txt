@@ -1,0 +1,11 @@
+002,1,takeaway,0.0,2.0,pending,11-02-2025
+003,1,takeaway,0.0,2.0,pending,11-02-2025
+004,1,takeaway,0.0,2.0,pending,11-02-2025
+005,3,takeaway,16.0,2.0,pending,11-02-2025
+006,1,takeaway,7.0,2.0,pending,11-02-2025
+007,1,dine-in,12.0,0.0,pending,11-02-2025
+008,1,delivery,10.0,5.0,pending,11-02-2025
+009,3,delivery,30.0,5.0,pending,11-02-2025
+010,2,delivery,22.0,5.0,pending,11-02-2025
+011,4,delivery,44.0,5.0,pending,11-02-2025
+012,2,delivery,11.0,5.0,pending,11-02-2025

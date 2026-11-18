@@ -1,0 +1,41 @@
+Malay,Nasi Kerabu,3.5,7.0,null
+Malay,Nasi Goreng,3.5,7.0,null
+Malay,Tom Yum,4.5,9.0,null
+Malay,Bandung,1.0,2.0,null
+Malay,Nasi Ayam,4.0,8.0,null
+Indian,Roti Canai,2.5,5.0,null
+Indian,Tandoori,3.5,7.0,null
+Indian,Naan,2.5,5.0,null
+Indian,Biryani,5.0,10.0,null
+Indian,Roti Sardine,2.5,5.0,null
+Indian,Roti Cheese,3.0,6.0,null
+Indian,Roti Bomb,3.5,7.0,null
+Malay,Nasi Ayam Merah,5.0,10.0,null
+Malay,Nasi Goreng kampung,4.0,8.0,null
+Malay,Nasi Gerong Pataya,5.0,10.0,null
+Malay,Nasi Gerong Cina,4.0,8.0,null
+Malay,Nasi Lemak Telur,3.0,6.0,null
+Malay,Nasi Goreng Ayam Percik,4.0,8.0,null
+Malay,Nasi Goreng Rendang Daging,5.5,11.0,null
+Indian,Nasi Goreng Pushpa Raj,6.0,12.0,null
+Indian,Nasi Goreng KGF,5.0,10.0,null
+Indian,Nasi Goreng Rajinikanth,6.0,12.0,null
+Indian,Nasi Goreng Rocky Bhai,5.0,10.0,null
+Indian,Nasi Goreng Devdas,5.0,10.0,null
+Indian,Nasi Goreng Samantha,6.0,12.0,null
+Indian,Nasi Goreng Rashmika Mandanna,6.5,13.0,null
+Chinese,Dumplings,5.0,10.0,src/Images/menu/Dumplings.jpg
+Chinese,Fried Rice,5.0,10.0,src/Images/menu/fried rice.jpg
+Chinese,Wan Tan Mee,4.5,9.0,src/Images/menu/Wan Tan Mee.jpg
+Chinese,Scallion Noodle,4.5,9.0,src/Images/menu/Scallion noodle.jpg
+Chinese,Chicken Rice,4.0,8.0,src/Images/menu/chicken-rice.jpg
+Chinese,Tiger Prawn,5.0,10.0,src/Images/menu/tiger prawn.jpg
+Chinese,Chilli Chicken,6.0,12.0,src/Images/menu/Chilli-Chicken.jpg
+Chinese,Sizzling Tofu,6.0,12.0,src/Images/menu/sizzling tofu.jpg
+Chinese,Spicy Lala,10.0,20.0,src/Images/menu/spicy lala.jpg
+Chinese,Tiga Rasa Ikan,8.0,16.0,src/Images/menu/Ikan Tiga Rasa.jpg
+Chinese,Kam Heong Chicken,6.0,12.0,src/Images/menu/kam-heong-chicken.jpg
+Chinese,Xiao Long Bao,5.0,10.0,src/Images/menu/A_Xiaolongbao.jpg
+Chinese,Salted Egg Yolk Prawn,6.0,12.0,src/Images/menu/saltet egg yolk prawn.jpg
+Chinese,Chili Oil Biang Noodles,4.0,8.0,src/Images/menu/Chili Oil Biang Noodles.jpg
+Chinese,Stinky Tofu,5.0,10.0,src/Images/menu/Stinky Tofu.JPG
